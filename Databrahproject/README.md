@@ -1,4 +1,4 @@
-# your-project-name
+# data-brah-project
 
 ## Project setup
 ```
